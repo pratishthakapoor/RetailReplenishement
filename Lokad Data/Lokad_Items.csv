@@ -1,0 +1,319 @@
+﻿Id,Loc,Ref,Name,Category,SubCategory,Brand,Supplier,StockOnHand,StockOnOrder,BackOrder,BuyPrice,SellPrice,MOQ,LotMultiplier,Volume
+10014552/Chicago,Chicago,10014552,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,Office Supplies,Appliances,Belkin,FHL,6,0,0,7.36999989,17.1800003,0,20,0.045027915
+10014552/Los Angeles,Los Angeles,10014552,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,Office Supplies,Appliances,Belkin,FHL,3,3,2,7.36999989,17.1800003,0,20,0.045027915
+10014552/New-York,New-York,10014552,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,Office Supplies,Appliances,Belkin,FHL,0,10,0,7.36999989,17.1800003,0,20,0.045027915
+10095232/Chicago,Chicago,10095232,Hoover WindTunnel Plus Canister Vacuum,Office Supplies,Appliances,Hoover,Office First,0,0,0,26.6800003,51.6800003,0,0,0.098301539
+10095232/Los Angeles,Los Angeles,10095232,Hoover WindTunnel Plus Canister Vacuum,Office Supplies,Appliances,Hoover,Office First,0,0,0,26.6800003,51.6800003,0,0,0.098301539
+10095232/New-York,New-York,10095232,Hoover WindTunnel Plus Canister Vacuum,Office Supplies,Appliances,Hoover,Office First,80,0,0,26.6800003,51.6800003,0,0,0.098301539
+10099950/Chicago,Chicago,10099950,Staples 4 Outlet Surge Protector,Office Supplies,Appliances,Staples,Logipro,4,20,0,33.0600014,50.0400009,0,2,0.005964447
+10099950/Los Angeles,Los Angeles,10099950,Staples 4 Outlet Surge Protector,Office Supplies,Appliances,Staples,Logipro,0,0,0,33.0600014,50.0400009,0,2,0.005964447
+10099950/New-York,New-York,10099950,Staples 4 Outlet Surge Protector,Office Supplies,Appliances,Staples,Logipro,45,40,0,33.0600014,50.0400009,0,2,0.005964447
+10132892/Chicago,Chicago,10132892,"Acco Pressboard Covers with Storage Hooks, 14 7/8 x 11 Dark Blue",Office Supplies,Binders and Binder Accessories,Acco,Drecom,21,0,0,46.3800011,67.75,0,4,0.069722967
+10132892/Los Angeles,Los Angeles,10132892,"Acco Pressboard Covers with Storage Hooks, 14 7/8 x 11 Dark Blue",Office Supplies,Binders and Binder Accessories,Acco,Drecom,0,0,0,46.3800011,67.75,0,4,0.069722967
+10132892/New-York,New-York,10132892,"Acco Pressboard Covers with Storage Hooks, 14 7/8 x 11 Dark Blue",Office Supplies,Binders and Binder Accessories,Acco,Drecom,1,44,0,46.3800011,67.75,0,4,0.069722967
+10136626/Chicago,Chicago,10136626,"Avery Trapezoid Ring Binder, 3 Capacity, Black, 1040 sheets",Office Supplies,Binders and Binder Accessories,Avery,FHL,53,0,0,40,84.5400009,0,0,0.09157928
+10136626/Los Angeles,Los Angeles,10136626,"Avery Trapezoid Ring Binder, 3 Capacity, Black, 1040 sheets",Office Supplies,Binders and Binder Accessories,Avery,FHL,0,0,1,40,84.5400009,0,0,0.09157928
+10136626/New-York,New-York,10136626,"Avery Trapezoid Ring Binder, 3 Capacity, Black, 1040 sheets",Office Supplies,Binders and Binder Accessories,Avery,FHL,106,200,0,40,84.5400009,0,0,0.09157928
+10210677/Chicago,Chicago,10210677,Catalog Binders with Expanding Posts,Office Supplies,Binders and Binder Accessories,Catalog,Drecom,0,0,0,63.6500015,94.9100037,0,2,0.020546921
+10210677/Los Angeles,Los Angeles,10210677,Catalog Binders with Expanding Posts,Office Supplies,Binders and Binder Accessories,Catalog,Drecom,0,0,0,63.6500015,94.9100037,0,2,0.020546921
+10210677/New-York,New-York,10210677,Catalog Binders with Expanding Posts,Office Supplies,Binders and Binder Accessories,Catalog,Drecom,0,20,0,63.6500015,94.9100037,0,2,0.020546921
+10255812/Chicago,Chicago,10255812,Fellowes PB300 Plastic Comb Binding Machine,Office Supplies,Binders and Binder Accessories,Fellowes,RRD,200,0,0,8,20.8600006,0,0,0.058024767
+10255812/Los Angeles,Los Angeles,10255812,Fellowes PB300 Plastic Comb Binding Machine,Office Supplies,Binders and Binder Accessories,Fellowes,RRD,523,65,0,8,20.8600006,0,0,0.058024767
+10255812/New-York,New-York,10255812,Fellowes PB300 Plastic Comb Binding Machine,Office Supplies,Binders and Binder Accessories,Fellowes,RRD,4500,100,0,8,20.8600006,0,0,0.058024767
+10422793/Chicago,Chicago,10422793,GBC Therma-A-Bind 250T Electric Binding System,Office Supplies,Binders and Binder Accessories,GBC,RRD,29,0,0,13.2399998,30.5599995,0,6,0.094923202
+10422793/Los Angeles,Los Angeles,10422793,GBC Therma-A-Bind 250T Electric Binding System,Office Supplies,Binders and Binder Accessories,GBC,RRD,0,0,0,13.2399998,30.5599995,0,6,0.094923202
+10422793/New-York,New-York,10422793,GBC Therma-A-Bind 250T Electric Binding System,Office Supplies,Binders and Binder Accessories,GBC,RRD,23,0,0,13.2399998,30.5599995,0,6,0.094923202
+10592438/Chicago,Chicago,10592438,Presstex Flexible Ring Binders,Office Supplies,Binders and Binder Accessories,Presstex,Logipro,29,0,0,3.44000006,6.9000001,0,20,0.022891593
+10592438/Los Angeles,Los Angeles,10592438,Presstex Flexible Ring Binders,Office Supplies,Binders and Binder Accessories,Presstex,Logipro,36,0,0,3.44000006,6.9000001,0,20,0.022891593
+10592438/New-York,New-York,10592438,Presstex Flexible Ring Binders,Office Supplies,Binders and Binder Accessories,Presstex,Logipro,8,20,0,3.44000006,6.9000001,0,20,0.022891593
+10595489/Chicago,Chicago,10595489,Wilson Jones DublLock D-Ring Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,60,0,0,37.8400002,69.5599976,0,2,0.057630328
+10595489/Los Angeles,Los Angeles,10595489,Wilson Jones DublLock D-Ring Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,0,0,3,37.8400002,69.5599976,0,2,0.057630328
+10595489/New-York,New-York,10595489,Wilson Jones DublLock D-Ring Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,10,14,0,37.8400002,69.5599976,0,2,0.057630328
+10678449/Chicago,Chicago,10678449,Wilson Jones Suede Grain Vinyl Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,0,24,0,33.0600014,49.7900009,0,2,0.023518672
+10678449/Los Angeles,Los Angeles,10678449,Wilson Jones Suede Grain Vinyl Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,1,0,0,33.0600014,49.7900009,0,2,0.023518672
+10678449/New-York,New-York,10678449,Wilson Jones Suede Grain Vinyl Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,45,40,0,33.0600014,49.7900009,0,2,0.023518672
+10764226/Chicago,Chicago,10764226,Wilson Jones Impact Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,59,0,0,17.3700008,35.8300018,0,4,0.041051114
+10764226/Los Angeles,Los Angeles,10764226,Wilson Jones Impact Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,0,0,0,17.3700008,35.8300018,0,4,0.041051114
+10764226/New-York,New-York,10764226,Wilson Jones Impact Binders,Office Supplies,Binders and Binder Accessories,Wilson,SuperSupply,43,0,0,17.3700008,35.8300018,0,4,0.041051114
+11045096/Chicago,Chicago,11045096,XtraLife ClearVue Slant-D Ring Binders by Cardinal,Office Supplies,Binders and Binder Accessories,XtraLife,Logipro,2,12,0,36.9199982,61.7900009,0,2,0.098938832
+11045096/Los Angeles,Los Angeles,11045096,XtraLife ClearVue Slant-D Ring Binders by Cardinal,Office Supplies,Binders and Binder Accessories,XtraLife,Logipro,0,20,0,36.9199982,61.7900009,0,2,0.098938832
+11045096/New-York,New-York,11045096,XtraLife ClearVue Slant-D Ring Binders by Cardinal,Office Supplies,Binders and Binder Accessories,XtraLife,Logipro,7,50,0,36.9199982,61.7900009,0,2,0.098938832
+11097836/Chicago,Chicago,11097836,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,Bookcases,O'Sullivan,SuperSupply,28,0,0,24.9599991,48.2799988,0,4,0.047515607
+11097836/Los Angeles,Los Angeles,11097836,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,Bookcases,O'Sullivan,SuperSupply,0,32,0,24.9599991,48.2799988,0,4,0.047515607
+11097836/New-York,New-York,11097836,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,Bookcases,O'Sullivan,SuperSupply,0,32,0,24.9599991,48.2799988,0,4,0.047515607
+11481389/Chicago,Chicago,11481389,Rush Hierlooms Collection Rich Wood Bookcases,Furniture,Bookcases,Rush,SuperSupply,27,0,0,13.2399998,29,0,6,0.069342273
+11481389/Los Angeles,Los Angeles,11481389,Rush Hierlooms Collection Rich Wood Bookcases,Furniture,Bookcases,Rush,SuperSupply,0,2,0,13.2399998,29,0,6,0.069342273
+11481389/New-York,New-York,11481389,Rush Hierlooms Collection Rich Wood Bookcases,Furniture,Bookcases,Rush,SuperSupply,18,0,0,13.2399998,29,0,6,0.069342273
+11557472/Chicago,Chicago,11557472,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Furniture,Bookcases,Safco,SuperSupply,251,0,0,24.3999996,41.9799995,0,4,0.036822625
+11557472/Los Angeles,Los Angeles,11557472,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Furniture,Bookcases,Safco,SuperSupply,0,0,0,24.3999996,41.9799995,0,4,0.036822625
+11557472/New-York,New-York,11557472,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Furniture,Bookcases,Safco,SuperSupply,162,0,0,24.3999996,41.9799995,0,4,0.036822625
+11635178/Chicago,Chicago,11635178,Hon Comfortask Task/Swivel Chairs,Furniture,Chairs & Chairmats,Hon,Drecom,0,0,0,9.35000038,24.8199997,0,6,0.018141137
+11635178/Los Angeles,Los Angeles,11635178,Hon Comfortask Task/Swivel Chairs,Furniture,Chairs & Chairmats,Hon,Drecom,0,0,2,9.35000038,24.8199997,0,6,0.018141137
+11635178/New-York,New-York,11635178,Hon Comfortask Task/Swivel Chairs,Furniture,Chairs & Chairmats,Hon,Drecom,28,0,0,9.35000038,24.8199997,0,6,0.018141137
+11711100/Chicago,Chicago,11711100,Gyration Ultra Cordless Optical Suite,Technology,Computer Peripherals,Gyration,Office First,0,0,0,13.9700003,32.0999985,0,6,0.073110277
+11711100/Los Angeles,Los Angeles,11711100,Gyration Ultra Cordless Optical Suite,Technology,Computer Peripherals,Gyration,Office First,0,24,0,13.9700003,32.0999985,0,6,0.073110277
+11711100/New-York,New-York,11711100,Gyration Ultra Cordless Optical Suite,Technology,Computer Peripherals,Gyration,Office First,0,48,1,13.9700003,32.0999985,0,6,0.073110277
+11711150/Chicago,Chicago,11711150,Hewlett-Packard 4.7GB DVD+R Discs * 3,Technology,Computer Peripherals,Hewlett-Packard,Lokad,0,0,0,74.7299957,110,0,0,0.066960721
+11711150/Los Angeles,Los Angeles,11711150,Hewlett-Packard 4.7GB DVD+R Discs * 3,Technology,Computer Peripherals,Hewlett-Packard,Lokad,0,0,0,74.7299957,110,0,0,0.066960721
+11711150/New-York,New-York,11711150,Hewlett-Packard 4.7GB DVD+R Discs * 3,Technology,Computer Peripherals,Hewlett-Packard,Lokad,0,0,0,74.7299957,110,0,0,0.066960721
+11711636/Chicago,Chicago,11711636,Hewlett-Packard 4.7GB DVD+R Discs,Technology,Computer Peripherals,Hewlett-Packard,RRD,0,10,2,24.9099998,42.7200012,0,2,0.087591987
+11711636/Los Angeles,Los Angeles,11711636,Hewlett-Packard 4.7GB DVD+R Discs,Technology,Computer Peripherals,Hewlett-Packard,RRD,1,60,0,24.9099998,42.7200012,0,2,0.087591987
+11711636/New-York,New-York,11711636,Hewlett-Packard 4.7GB DVD+R Discs,Technology,Computer Peripherals,Hewlett-Packard,RRD,77,0,0,24.9099998,42.7200012,0,2,0.087591987
+11780124/Chicago,Chicago,11780124,"Imation Neon 80 Minute CD-R Spindle, 50/Pack",Technology,Computer Peripherals,Imation,SuperSupply,96,125,0,3.51999998,24.2600002,0,0,0.002262877
+11780124/Los Angeles,Los Angeles,11780124,"Imation Neon 80 Minute CD-R Spindle, 50/Pack",Technology,Computer Peripherals,Imation,SuperSupply,422,178,0,3.51999998,24.2600002,0,0,0.002262877
+11780124/New-York,New-York,11780124,"Imation Neon 80 Minute CD-R Spindle, 50/Pack",Technology,Computer Peripherals,Imation,SuperSupply,1623,125,0,3.51999998,24.2600002,0,0,0.002262877
+11788268/Chicago,Chicago,11788268,"Imation Primaris 3.5 2HD Unformatted Diskettes, 10/PackImation Primaris 3.5",Technology,Computer Peripherals,Imation,SuperSupply,0,0,0,63.6500015,95.2600021,0,2,0.068564526
+11788268/Los Angeles,Los Angeles,11788268,"Imation Primaris 3.5 2HD Unformatted Diskettes, 10/PackImation Primaris 3.5",Technology,Computer Peripherals,Imation,SuperSupply,0,0,0,63.6500015,95.2600021,0,2,0.068564526
+11788268/New-York,New-York,11788268,"Imation Primaris 3.5 2HD Unformatted Diskettes, 10/PackImation Primaris 3.5",Technology,Computer Peripherals,Imation,SuperSupply,0,20,0,63.6500015,95.2600021,0,2,0.068564526
+11800905/Chicago,Chicago,11800905,Keytronic French Keyboard,Technology,Computer Peripherals,Keytronic,Office First,28,0,0,17.8799992,37.2299995,0,4,0.073899644
+11800905/Los Angeles,Los Angeles,11800905,Keytronic French Keyboard,Technology,Computer Peripherals,Keytronic,Office First,3,0,0,17.8799992,37.2299995,0,4,0.073899644
+11800905/New-York,New-York,11800905,Keytronic French Keyboard,Technology,Computer Peripherals,Keytronic,Office First,19,0,0,17.8799992,37.2299995,0,4,0.073899644
+11906239/Chicago,Chicago,11906239,Logitech Cordless Elite Duo,Technology,Computer Peripherals,Logitech,Drecom,34,0,0,31.3299999,69.3899994,100,0,0.05694618
+11906239/Los Angeles,Los Angeles,11906239,Logitech Cordless Elite Duo,Technology,Computer Peripherals,Logitech,Drecom,0,30,0,31.3299999,69.3899994,100,0,0.05694618
+11906239/New-York,New-York,11906239,Logitech Cordless Elite Duo,Technology,Computer Peripherals,Logitech,Drecom,0,70,2,31.3299999,69.3899994,100,0,0.05694618
+11914966/Chicago,Chicago,11914966,Microsoft Internet Keyboard,Technology,Computer Peripherals,Microsoft,Office First,32,0,0,28.5100002,61.4799995,0,2,0.070426307
+11914966/Los Angeles,Los Angeles,11914966,Microsoft Internet Keyboard,Technology,Computer Peripherals,Microsoft,Office First,11,20,0,28.5100002,61.4799995,0,2,0.070426307
+11914966/New-York,New-York,11914966,Microsoft Internet Keyboard,Technology,Computer Peripherals,Microsoft,Office First,58,0,0,28.5100002,61.4799995,0,2,0.070426307
+11929369/Chicago,Chicago,11929369,TDK 4.7GB DVD+RW,Technology,Computer Peripherals,TDK,Logipro,54,0,0,8.85000038,23.1599998,0,6,0.048280303
+11929369/Los Angeles,Los Angeles,11929369,TDK 4.7GB DVD+RW,Technology,Computer Peripherals,TDK,Logipro,0,2,0,8.85000038,23.1599998,0,6,0.048280303
+11929369/New-York,New-York,11929369,TDK 4.7GB DVD+RW,Technology,Computer Peripherals,TDK,Logipro,25,0,0,8.85000038,23.1599998,0,6,0.048280303
+11941800/Chicago,Chicago,11941800,U.S. Robotics 56K Internet Call Modem,Technology,Computer Peripherals,U.S.,Drecom,2,10,0,24.9099998,42.7900009,0,2,0.053274116
+11941800/Los Angeles,Los Angeles,11941800,U.S. Robotics 56K Internet Call Modem,Technology,Computer Peripherals,U.S.,Drecom,0,60,0,24.9099998,42.7900009,0,2,0.053274116
+11941800/New-York,New-York,11941800,U.S. Robotics 56K Internet Call Modem,Technology,Computer Peripherals,U.S.,Drecom,81,0,0,24.9099998,42.7900009,0,2,0.053274116
+12401265/Chicago,Chicago,12401265,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Technology,Computer Peripherals,Verbatim,Drecom,5,0,0,4.84000015,17.1299992,0,10,0.040720096
+12401265/Los Angeles,Los Angeles,12401265,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Technology,Computer Peripherals,Verbatim,Drecom,0,0,0,4.84000015,17.1299992,0,10,0.040720096
+12401265/New-York,New-York,12401265,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Technology,Computer Peripherals,Verbatim,Drecom,4,0,0,4.84000015,17.1299992,0,10,0.040720096
+12407652/Chicago,Chicago,12407652,Pack DVD-R & DVD-RW,Technology,Computer Peripherals,Verbatim,Lokad,0,0,0,13.6900005,35,0,0,0.068249306
+12407652/Los Angeles,Los Angeles,12407652,Pack DVD-R & DVD-RW,Technology,Computer Peripherals,Verbatim,Lokad,0,0,0,13.6900005,35,0,0,0.068249306
+12407652/New-York,New-York,12407652,Pack DVD-R & DVD-RW,Technology,Computer Peripherals,Verbatim,Lokad,0,0,0,13.6900005,35,0,0,0.068249306
+12409642/Chicago,Chicago,12409642,Canon PC-428 Personal Copier,Technology,Copiers and Fax,Canon,Office First,0,34,0,47.0600014,80.4899979,0,2,0.025985344
+12409642/Los Angeles,Los Angeles,12409642,Canon PC-428 Personal Copier,Technology,Copiers and Fax,Canon,Office First,0,44,0,47.0600014,80.4899979,0,2,0.025985344
+12409642/New-York,New-York,12409642,Canon PC-428 Personal Copier,Technology,Copiers and Fax,Canon,Office First,58,72,0,47.0600014,80.4899979,0,2,0.025985344
+12451991/Chicago,Chicago,12451991,Sharp AL-1530CS Digital Copier,Technology,Copiers and Fax,Sharp,RRD,0,0,0,22.5400009,44.4799995,0,2,0.008272972
+12451991/Los Angeles,Los Angeles,12451991,Sharp AL-1530CS Digital Copier,Technology,Copiers and Fax,Sharp,RRD,0,40,0,22.5400009,44.4799995,0,2,0.008272972
+12451991/New-York,New-York,12451991,Sharp AL-1530CS Digital Copier,Technology,Copiers and Fax,Sharp,RRD,63,0,0,22.5400009,44.4799995,0,2,0.008272972
+12561507/Chicago,Chicago,12561507,Ampad #10 Peel & Seel Holiday Envelopes,Office Supplies,Envelopes,Ampad,FHL,221,0,0,29.3400002,53.5400009,0,4,0.096304982
+12561507/Los Angeles,Los Angeles,12561507,Ampad #10 Peel & Seel Holiday Envelopes,Office Supplies,Envelopes,Ampad,FHL,3,0,0,29.3400002,53.5400009,0,4,0.096304982
+12561507/New-York,New-York,12561507,Ampad #10 Peel & Seel Holiday Envelopes,Office Supplies,Envelopes,Ampad,FHL,28,180,0,29.3400002,53.5400009,0,4,0.096304982
+12564089/Chicago,Chicago,12564089,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Office Supplies,Envelopes,Jet-Pak,FHL,16,0,0,30.75,61.5600014,0,2,0.008380193
+12564089/Los Angeles,Los Angeles,12564089,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Office Supplies,Envelopes,Jet-Pak,FHL,1,0,0,30.75,61.5600014,0,2,0.008380193
+12564089/New-York,New-York,12564089,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Office Supplies,Envelopes,Jet-Pak,FHL,3,30,0,30.75,61.5600014,0,2,0.008380193
+12569093/Chicago,Chicago,12569093,Multimedia Mailers,Office Supplies,Envelopes,Multimedia,Office First,14,12,0,22.3799992,38.4000015,0,2,0.059668755
+12569093/Los Angeles,Los Angeles,12569093,Multimedia Mailers,Office Supplies,Envelopes,Multimedia,Office First,22,0,0,22.3799992,38.4000015,0,2,0.059668755
+12569093/New-York,New-York,12569093,Multimedia Mailers,Office Supplies,Envelopes,Multimedia,Office First,0,20,0,22.3799992,38.4000015,0,2,0.059668755
+12572098/Chicago,Chicago,12572098,Staples Standard Envelopes,Office Supplies,Envelopes,Staples,Logipro,32,0,0,39.6199989,65.8000031,0,2,0.035221253
+12572098/Los Angeles,Los Angeles,12572098,Staples Standard Envelopes,Office Supplies,Envelopes,Staples,Logipro,0,0,1,39.6199989,65.8000031,0,2,0.035221253
+12572098/New-York,New-York,12572098,Staples Standard Envelopes,Office Supplies,Envelopes,Staples,Logipro,25,0,0,39.6199989,65.8000031,0,2,0.035221253
+12572752/Chicago,Chicago,12572752,Avery 503,Office Supplies,Labels,Avery,FHL,13,20,0,52.9099998,83.7900009,0,2,0.021998699
+12572752/Los Angeles,Los Angeles,12572752,Avery 503,Office Supplies,Labels,Avery,FHL,0,21,0,52.9099998,83.7900009,0,2,0.021998699
+12572752/New-York,New-York,12572752,Avery 503,Office Supplies,Labels,Avery,FHL,9,116,0,52.9099998,83.7900009,0,2,0.021998699
+12703703/Chicago,Chicago,12703703,Avery White Multi-Purpose Labels,Office Supplies,Labels,Avery,FHL,28,0,0,15.3500004,31.7099991,0,2,0.094246679
+12703703/Los Angeles,Los Angeles,12703703,Avery White Multi-Purpose Labels,Office Supplies,Labels,Avery,FHL,0,0,0,15.3500004,31.7099991,0,2,0.094246679
+12703703/New-York,New-York,12703703,Avery White Multi-Purpose Labels,Office Supplies,Labels,Avery,FHL,0,16,0,15.3500004,31.7099991,0,2,0.094246679
+12753764/Chicago,Chicago,12753764,Avery 479,Office Supplies,Labels,Avery,FHL,159,0,0,11.4799995,23.3600006,0,6,0.087981053
+12753764/Los Angeles,Los Angeles,12753764,Avery 479,Office Supplies,Labels,Avery,FHL,85,0,0,11.4799995,23.3600006,0,6,0.087981053
+12753764/New-York,New-York,12753764,Avery 479,Office Supplies,Labels,Avery,FHL,323,0,0,11.4799995,23.3600006,0,6,0.087981053
+12768029/Chicago,Chicago,12768029,Avery 481,Office Supplies,Labels,Avery,FHL,0,12,0,18.2000008,35.8499985,0,4,0.026021653
+12768029/Los Angeles,Los Angeles,12768029,Avery 481,Office Supplies,Labels,Avery,FHL,2,2,0,18.2000008,35.8499985,0,4,0.026021653
+12768029/New-York,New-York,12768029,Avery 481,Office Supplies,Labels,Avery,FHL,1,24,0,18.2000008,35.8499985,0,4,0.026021653
+12787016/Chicago,Chicago,12787016,Avery 501,Office Supplies,Labels,Avery,FHL,5,0,0,39.7700005,109.230003,0,0,0.077708794
+12787016/Los Angeles,Los Angeles,12787016,Avery 501,Office Supplies,Labels,Avery,FHL,0,0,0,39.7700005,109.230003,0,0,0.077708794
+12787016/New-York,New-York,12787016,Avery 501,Office Supplies,Labels,Avery,FHL,6,100,0,39.7700005,109.230003,0,0,0.077708794
+12918171/Chicago,Chicago,12918171,DAX Cubicle Frames - 8x10,Furniture,Office Furnishings,DAX,Drecom,5,0,0,4.84000015,16.7900009,0,10,0.08992193
+12918171/Los Angeles,Los Angeles,12918171,DAX Cubicle Frames - 8x10,Furniture,Office Furnishings,DAX,Drecom,2,2,0,4.84000015,16.7900009,0,10,0.08992193
+12918171/New-York,New-York,12918171,DAX Cubicle Frames - 8x10,Furniture,Office Furnishings,DAX,Drecom,5,0,0,4.84000015,16.7900009,0,10,0.08992193
+12956674/Chicago,Chicago,12956674,Deflect-O Glasstique Clear Desk Accessories,Furniture,Office Furnishings,Deflect-O,Logipro,0,0,0,64.3799973,96.4199982,0,6,0.08433301
+12956674/Los Angeles,Los Angeles,12956674,Deflect-O Glasstique Clear Desk Accessories,Furniture,Office Furnishings,Deflect-O,Logipro,0,0,0,64.3799973,96.4199982,0,6,0.08433301
+12956674/New-York,New-York,12956674,Deflect-O Glasstique Clear Desk Accessories,Furniture,Office Furnishings,Deflect-O,Logipro,2,0,0,64.3799973,96.4199982,0,6,0.08433301
+13060917/Chicago,Chicago,13060917,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Furniture,Office Furnishings,Electrix,RRD,14,0,0,34.9199982,62.6100006,0,2,0.032369583
+13060917/Los Angeles,Los Angeles,13060917,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Furniture,Office Furnishings,Electrix,RRD,0,20,0,34.9199982,62.6100006,0,2,0.032369583
+13060917/New-York,New-York,13060917,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Furniture,Office Furnishings,Electrix,RRD,0,0,0,34.9199982,62.6100006,0,2,0.032369583
+13107618/Chicago,Chicago,13107618,"Master Giant Foot Doorstop, Safety Yellow",Furniture,Office Furnishings,Master,Logipro,0,20,0,49.1699982,72.6299973,0,2,0.016598427
+13107618/Los Angeles,Los Angeles,13107618,"Master Giant Foot Doorstop, Safety Yellow",Furniture,Office Furnishings,Master,Logipro,0,0,2,49.1699982,72.6299973,0,2,0.016598427
+13107618/New-York,New-York,13107618,"Master Giant Foot Doorstop, Safety Yellow",Furniture,Office Furnishings,Master,Logipro,15,20,0,49.1699982,72.6299973,0,2,0.016598427
+13336372/Chicago,Chicago,13336372,"AT&T Black Trimline Phone, Model 210",Technology,Office Machines,AT&T,Office First,1,0,0,30.5599995,56.5099983,0,4,0.074684399
+13336372/Los Angeles,Los Angeles,13336372,"AT&T Black Trimline Phone, Model 210",Technology,Office Machines,AT&T,Office First,4,4,0,30.5599995,56.5099983,0,4,0.074684399
+13336372/New-York,New-York,13336372,"AT&T Black Trimline Phone, Model 210",Technology,Office Machines,AT&T,Office First,9,0,0,30.5599995,56.5099983,0,4,0.074684399
+13336895/Chicago,Chicago,13336895,Hewlett-Packard Deskjet 5550 Color Inkjet Printer & Paper,Technology,Office Machines,Hewlett-Packard,Lokad,0,0,0,77.9000015,100,0,0,0.039119673
+13336895/Los Angeles,Los Angeles,13336895,Hewlett-Packard Deskjet 5550 Color Inkjet Printer & Paper,Technology,Office Machines,Hewlett-Packard,Lokad,0,0,0,77.9000015,100,0,0,0.039119673
+13336895/New-York,New-York,13336895,Hewlett-Packard Deskjet 5550 Color Inkjet Printer & Paper,Technology,Office Machines,Hewlett-Packard,Lokad,0,0,0,77.9000015,100,0,0,0.039119673
+13452029/Chicago,Chicago,13452029,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Technology,Office Machines,Hewlett-Packard,RRD,0,8,0,49.8499985,85.8499985,0,4,0.00740585
+13452029/Los Angeles,Los Angeles,13452029,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Technology,Office Machines,Hewlett-Packard,RRD,14,0,0,49.8499985,85.8499985,0,4,0.00740585
+13452029/New-York,New-York,13452029,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Technology,Office Machines,Hewlett-Packard,RRD,0,12,0,49.8499985,85.8499985,0,4,0.00740585
+13474623/Chicago,Chicago,13474623,Panasonic KX-P3626 Dot Matrix Printer,Technology,Office Machines,Panasonic,Drecom,92,0,0,64.0199966,94.5599976,0,2,0.039584465
+13474623/Los Angeles,Los Angeles,13474623,Panasonic KX-P3626 Dot Matrix Printer,Technology,Office Machines,Panasonic,Drecom,70,0,0,64.0199966,94.5599976,0,2,0.039584465
+13474623/New-York,New-York,13474623,Panasonic KX-P3626 Dot Matrix Printer,Technology,Office Machines,Panasonic,Drecom,137,0,0,64.0199966,94.5599976,0,2,0.039584465
+13498766/Chicago,Chicago,13498766,"Soundgear Copyboard Conference Phone, Optional Battery",Technology,Office Machines,Soundgear,Logipro,24,28,0,18.5,33.9700012,0,2,0.044540007
+13498766/Los Angeles,Los Angeles,13498766,"Soundgear Copyboard Conference Phone, Optional Battery",Technology,Office Machines,Soundgear,Logipro,0,30,3,18.5,33.9700012,0,2,0.044540007
+13498766/New-York,New-York,13498766,"Soundgear Copyboard Conference Phone, Optional Battery",Technology,Office Machines,Soundgear,Logipro,62,124,0,18.5,33.9700012,0,2,0.044540007
+13532626/Chicago,Chicago,13532626,EcoTones Memo Sheets,Office Supplies,Paper,EcoTones,SuperSupply,33,0,0,59.6500015,148.699997,50,0,0.058266895
+13532626/Los Angeles,Los Angeles,13532626,EcoTones Memo Sheets,Office Supplies,Paper,EcoTones,SuperSupply,0,48,0,59.6500015,148.699997,50,0,0.058266895
+13532626/New-York,New-York,13532626,EcoTones Memo Sheets,Office Supplies,Paper,EcoTones,SuperSupply,171,0,0,59.6500015,148.699997,50,0,0.058266895
+13594853/Chicago,Chicago,13594853,"It's Hot Message Books with Stickers, 2 3/4 x 5",Office Supplies,Paper,It's Hot,Drecom,249,0,0,24.3999996,41.9000015,0,4,0.099503047
+13594853/Los Angeles,Los Angeles,13594853,"It's Hot Message Books with Stickers, 2 3/4 x 5",Office Supplies,Paper,It's Hot,Drecom,0,1,2,24.3999996,41.9000015,0,4,0.099503047
+13594853/New-York,New-York,13594853,"It's Hot Message Books with Stickers, 2 3/4 x 5",Office Supplies,Paper,It's Hot,Drecom,150,0,0,24.3999996,41.9000015,0,4,0.099503047
+13693084/Chicago,Chicago,13693084,Speediset Carbonless Redi-Letter 7 x 8 1/2,Office Supplies,Paper,Speediset,Logipro,14,0,0,0.920000017,2.3900001,0,20,0.065579425
+13693084/Los Angeles,Los Angeles,13693084,Speediset Carbonless Redi-Letter 7 x 8 1/2,Office Supplies,Paper,Speediset,Logipro,0,0,3,0.920000017,2.3900001,0,20,0.065579425
+13693084/New-York,New-York,13693084,Speediset Carbonless Redi-Letter 7 x 8 1/2,Office Supplies,Paper,Speediset,Logipro,50,40,0,0.920000017,2.3900001,0,20,0.065579425
+13751180/Chicago,Chicago,13751180,Staples Colored Bar Computer Paper,Office Supplies,Paper,Staples,Logipro,14,0,0,0.800000012,2.1099999,0,20,0.06149678
+13751180/Los Angeles,Los Angeles,13751180,Staples Colored Bar Computer Paper,Office Supplies,Paper,Staples,Logipro,0,0,0,0.800000012,2.1099999,0,20,0.06149678
+13751180/New-York,New-York,13751180,Staples Colored Bar Computer Paper,Office Supplies,Paper,Staples,Logipro,50,40,0,0.800000012,2.1099999,0,20,0.06149678
+13856231/Chicago,Chicago,13856231,Strathmore Photo Mount Cards,Office Supplies,Paper,Strathmore,SuperSupply,0,20,0,44.2400017,71.3300018,0,4,0.079658541
+13856231/Los Angeles,Los Angeles,13856231,Strathmore Photo Mount Cards,Office Supplies,Paper,Strathmore,SuperSupply,0,30,0,44.2400017,71.3300018,0,4,0.079658541
+13856231/New-York,New-York,13856231,Strathmore Photo Mount Cards,Office Supplies,Paper,Strathmore,SuperSupply,41,0,0,44.2400017,71.3300018,0,4,0.079658541
+13908259/Chicago,Chicago,13908259,Xerox 1984,Office Supplies,Paper,Xerox,Drecom,0,0,0,34,68.2699966,50,0,0.063647355
+13908259/Los Angeles,Los Angeles,13908259,Xerox 1984,Office Supplies,Paper,Xerox,Drecom,0,0,0,34,68.2699966,50,0,0.063647355
+13908259/New-York,New-York,13908259,Xerox 1984,Office Supplies,Paper,Xerox,Drecom,167,0,0,34,68.2699966,50,0,0.063647355
+13934616/Chicago,Chicago,13934616,Xerox 1885,Office Supplies,Paper,Xerox,Drecom,0,0,0,9.35000038,24.5300007,0,6,0.078992305
+13934616/Los Angeles,Los Angeles,13934616,Xerox 1885,Office Supplies,Paper,Xerox,Drecom,0,0,0,9.35000038,24.5300007,0,6,0.078992305
+13934616/New-York,New-York,13934616,Xerox 1885,Office Supplies,Paper,Xerox,Drecom,28,0,0,9.35000038,24.5300007,0,6,0.078992305
+13944445/Chicago,Chicago,13944445,Xerox 1885 + Xerox 1984,Office Supplies,Paper,Xerox,Lokad,0,0,0,43.3499985,80,0,0,0.057717178
+13944445/Los Angeles,Los Angeles,13944445,Xerox 1885 + Xerox 1984,Office Supplies,Paper,Xerox,Lokad,0,0,0,43.3499985,80,0,0,0.057717178
+13944445/New-York,New-York,13944445,Xerox 1885 + Xerox 1984,Office Supplies,Paper,Xerox,Lokad,0,0,0,43.3499985,80,0,0,0.057717178
+13985896/Chicago,Chicago,13985896,Xerox 1938,Office Supplies,Paper,Xerox,Drecom,0,12,0,45.5600014,67.6399994,0,4,0.05626323
+13985896/Los Angeles,Los Angeles,13985896,Xerox 1938,Office Supplies,Paper,Xerox,Drecom,0,32,0,45.5600014,67.6399994,0,4,0.05626323
+13985896/New-York,New-York,13985896,Xerox 1938,Office Supplies,Paper,Xerox,Drecom,0,60,0,45.5600014,67.6399994,0,4,0.05626323
+14095459/Chicago,Chicago,14095459,Xerox 1882,Office Supplies,Paper,Xerox,Drecom,30,0,0,46.5499992,115.220001,50,0,0.029207127
+14095459/Los Angeles,Los Angeles,14095459,Xerox 1882,Office Supplies,Paper,Xerox,Drecom,0,100,0,46.5499992,115.220001,50,0,0.029207127
+14095459/New-York,New-York,14095459,Xerox 1882,Office Supplies,Paper,Xerox,Drecom,117,0,0,46.5499992,115.220001,50,0,0.029207127
+14099484/Chicago,Chicago,14099484,Xerox 1932,Office Supplies,Paper,Xerox,Drecom,0,0,0,31.7399998,54.6199989,0,2,0.040165224
+14099484/Los Angeles,Los Angeles,14099484,Xerox 1932,Office Supplies,Paper,Xerox,Drecom,14,26,0,31.7399998,54.6199989,0,2,0.040165224
+14099484/New-York,New-York,14099484,Xerox 1932,Office Supplies,Paper,Xerox,Drecom,0,34,0,31.7399998,54.6199989,0,2,0.040165224
+14113811/Chicago,Chicago,14113811,Xerox 1893,Office Supplies,Paper,Xerox,Drecom,0,0,0,23.7199993,41.7799988,0,6,0.024194224
+14113811/Los Angeles,Los Angeles,14113811,Xerox 1893,Office Supplies,Paper,Xerox,Drecom,0,0,0,23.7199993,41.7799988,0,6,0.024194224
+14113811/New-York,New-York,14113811,Xerox 1893,Office Supplies,Paper,Xerox,Drecom,36,0,0,23.7199993,41.7799988,0,6,0.024194224
+14245992/Chicago,Chicago,14245992,Xerox 1916,Office Supplies,Paper,Xerox,Drecom,0,18,0,12.1300001,36.2599983,0,6,0.024270943
+14245992/Los Angeles,Los Angeles,14245992,Xerox 1916,Office Supplies,Paper,Xerox,Drecom,0,0,0,12.1300001,36.2599983,0,6,0.024270943
+14245992/New-York,New-York,14245992,Xerox 1916,Office Supplies,Paper,Xerox,Drecom,6,12,0,12.1300001,36.2599983,0,6,0.024270943
+14262733/Chicago,Chicago,14262733,Xerox 1993,Office Supplies,Paper,Xerox,Drecom,0,12,0,21.6399994,36.4500008,0,4,0.096866701
+14262733/Los Angeles,Los Angeles,14262733,Xerox 1993,Office Supplies,Paper,Xerox,Drecom,0,28,0,21.6399994,36.4500008,0,4,0.096866701
+14262733/New-York,New-York,14262733,Xerox 1993,Office Supplies,Paper,Xerox,Drecom,37,12,0,21.6399994,36.4500008,0,4,0.096866701
+14289423/Chicago,Chicago,14289423,Xerox 227,Office Supplies,Paper,Xerox,Drecom,22,0,0,58.25,101.480003,0,2,0.090316952
+14289423/Los Angeles,Los Angeles,14289423,Xerox 227,Office Supplies,Paper,Xerox,Drecom,3,0,0,58.25,101.480003,0,2,0.090316952
+14289423/New-York,New-York,14289423,Xerox 227,Office Supplies,Paper,Xerox,Drecom,12,0,0,58.25,101.480003,0,2,0.090316952
+14339722/Chicago,Chicago,14339722,Xerox 1964,Office Supplies,Paper,Xerox,Drecom,27,0,0,44.0699997,68.0500031,0,2,0.090304901
+14339722/Los Angeles,Los Angeles,14339722,Xerox 1964,Office Supplies,Paper,Xerox,Drecom,0,0,5,44.0699997,68.0500031,0,2,0.090304901
+14339722/New-York,New-York,14339722,Xerox 1964,Office Supplies,Paper,Xerox,Drecom,9,0,0,44.0699997,68.0500031,0,2,0.090304901
+14343336/Chicago,Chicago,14343336,Xerox 1981,Office Supplies,Paper,Xerox,Drecom,88,0,0,49.4000015,87.0100021,50,0,0.075765292
+14343336/Los Angeles,Los Angeles,14343336,Xerox 1981,Office Supplies,Paper,Xerox,Drecom,0,100,0,49.4000015,87.0100021,50,0,0.075765292
+14343336/New-York,New-York,14343336,Xerox 1981,Office Supplies,Paper,Xerox,Drecom,86,0,0,49.4000015,87.0100021,50,0,0.075765292
+14367353/Chicago,Chicago,14367353,Xerox Blank Computer Paper,Office Supplies,Paper,Xerox,Drecom,14,0,0,42.2000008,85.5400009,100,0,0.024728198
+14367353/Los Angeles,Los Angeles,14367353,Xerox Blank Computer Paper,Office Supplies,Paper,Xerox,Drecom,0,0,0,42.2000008,85.5400009,100,0,0.024728198
+14367353/New-York,New-York,14367353,Xerox Blank Computer Paper,Office Supplies,Paper,Xerox,Drecom,19,100,0,42.2000008,85.5400009,100,0,0.024728198
+14404386/Chicago,Chicago,14404386,Xerox 1880,Office Supplies,Paper,Xerox,Drecom,0,16,0,63.3100014,93.8600006,0,2,0.007117568
+14404386/Los Angeles,Los Angeles,14404386,Xerox 1880,Office Supplies,Paper,Xerox,Drecom,0,0,0,63.3100014,93.8600006,0,2,0.007117568
+14404386/New-York,New-York,14404386,Xerox 1880,Office Supplies,Paper,Xerox,Drecom,0,60,0,63.3100014,93.8600006,0,2,0.007117568
+14411646/Chicago,Chicago,14411646,Xerox 1982,Office Supplies,Paper,Xerox,Drecom,2,0,0,18.4699993,35.8600006,0,4,0.00586651
+14411646/Los Angeles,Los Angeles,14411646,Xerox 1982,Office Supplies,Paper,Xerox,Drecom,0,20,0,18.4699993,35.8600006,0,4,0.00586651
+14411646/New-York,New-York,14411646,Xerox 1982,Office Supplies,Paper,Xerox,Drecom,37,0,0,18.4699993,35.8600006,0,4,0.00586651
+14523293/Chicago,Chicago,14523293,Xerox 197,Office Supplies,Paper,Xerox,Drecom,21,0,0,19.2399998,38.6800003,0,4,0.061760011
+14523293/Los Angeles,Los Angeles,14523293,Xerox 197,Office Supplies,Paper,Xerox,Drecom,0,0,0,19.2399998,38.6800003,0,4,0.061760011
+14523293/New-York,New-York,14523293,Xerox 197,Office Supplies,Paper,Xerox,Drecom,9,0,0,19.2399998,38.6800003,0,4,0.061760011
+14548487/Chicago,Chicago,14548487,Xerox 1963,Office Supplies,Paper,Xerox,Drecom,0,16,0,26.9500008,46.5800018,0,4,0.042368727
+14548487/Los Angeles,Los Angeles,14548487,Xerox 1963,Office Supplies,Paper,Xerox,Drecom,0,32,0,26.9500008,46.5800018,0,4,0.042368727
+14548487/New-York,New-York,14548487,Xerox 1963,Office Supplies,Paper,Xerox,Drecom,24,96,0,26.9500008,46.5800018,0,4,0.042368727
+14693335/Chicago,Chicago,14693335,Xerox 188,Office Supplies,Paper,Xerox,Drecom,19,0,0,35.2099991,62.6100006,0,4,0.037613882
+14693335/Los Angeles,Los Angeles,14693335,Xerox 188,Office Supplies,Paper,Xerox,Drecom,3,0,0,35.2099991,62.6100006,0,4,0.037613882
+14693335/New-York,New-York,14693335,Xerox 188,Office Supplies,Paper,Xerox,Drecom,11,72,0,35.2099991,62.6100006,0,4,0.037613882
+14759689/Chicago,Chicago,14759689,Xerox 1949,Office Supplies,Paper,Xerox,Drecom,127,0,0,3.26999998,15.79,0,0,0.070024959
+14759689/Los Angeles,Los Angeles,14759689,Xerox 1949,Office Supplies,Paper,Xerox,Drecom,242,103,0,3.26999998,15.79,0,0,0.070024959
+14759689/New-York,New-York,14759689,Xerox 1949,Office Supplies,Paper,Xerox,Drecom,1805,0,0,3.26999998,15.79,0,0,0.070024959
+14789055/Chicago,Chicago,14789055,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Office Supplies,Pens & Art Supplies,Boston,FHL,13,68,0,23,40.2000008,0,2,0.012659396
+14789055/Los Angeles,Los Angeles,14789055,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Office Supplies,Pens & Art Supplies,Boston,FHL,0,40,0,23,40.2000008,0,2,0.012659396
+14789055/New-York,New-York,14789055,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Office Supplies,Pens & Art Supplies,Boston,FHL,160,240,0,23,40.2000008,0,2,0.012659396
+14802650/Chicago,Chicago,14802650,Box - Office Supplies,Office Supplies,Pens & Art Supplies,Boston,Lokad,0,0,0,43.4300003,70,0,0,0.037394265
+14802650/Los Angeles,Los Angeles,14802650,Box - Office Supplies,Office Supplies,Pens & Art Supplies,Boston,Lokad,0,0,0,43.4300003,70,0,0,0.037394265
+14802650/New-York,New-York,14802650,Box - Office Supplies,Office Supplies,Pens & Art Supplies,Boston,Lokad,0,0,0,43.4300003,70,0,0,0.037394265
+14820865/Chicago,Chicago,14820865,"Eldon Spacemaker Box, Quick-Snap Lid, Clear",Office Supplies,Pens & Art Supplies,Eldon,Drecom,29,0,0,17.8799992,36.9700012,0,4,0.010924881
+14820865/Los Angeles,Los Angeles,14820865,"Eldon Spacemaker Box, Quick-Snap Lid, Clear",Office Supplies,Pens & Art Supplies,Eldon,Drecom,0,0,0,17.8799992,36.9700012,0,4,0.010924881
+14820865/New-York,New-York,14820865,"Eldon Spacemaker Box, Quick-Snap Lid, Clear",Office Supplies,Pens & Art Supplies,Eldon,Drecom,21,0,0,17.8799992,36.9700012,0,4,0.010924881
+14895172/Chicago,Chicago,14895172,Newell 339,Office Supplies,Pens & Art Supplies,Newell,Logipro,7,0,0,29.1000004,40.0299988,0,4,0.055228702
+14895172/Los Angeles,Los Angeles,14895172,Newell 339,Office Supplies,Pens & Art Supplies,Newell,Logipro,3,0,0,29.1000004,40.0299988,0,4,0.055228702
+14895172/New-York,New-York,14895172,Newell 339,Office Supplies,Pens & Art Supplies,Newell,Logipro,2,0,0,29.1000004,40.0299988,0,4,0.055228702
+14901389/Chicago,Chicago,14901389,Newell 318,Office Supplies,Pens & Art Supplies,Newell,Logipro,0,0,3,31.2299995,54.6199989,0,20,0.07551079
+14901389/Los Angeles,Los Angeles,14901389,Newell 318,Office Supplies,Pens & Art Supplies,Newell,Logipro,8,0,0,31.2299995,54.6199989,0,20,0.07551079
+14901389/New-York,New-York,14901389,Newell 318,Office Supplies,Pens & Art Supplies,Newell,Logipro,7,0,0,31.2299995,54.6199989,0,20,0.07551079
+14993287/Chicago,Chicago,14993287,Pencil Box,Office Supplies,Pens & Art Supplies,Newell,Lokad,0,0,0,110.18,150,0,0,0.058468561
+14993287/Los Angeles,Los Angeles,14993287,Pencil Box,Office Supplies,Pens & Art Supplies,Newell,Lokad,0,0,0,110.18,150,0,0,0.058468561
+14993287/New-York,New-York,14993287,Pencil Box,Office Supplies,Pens & Art Supplies,Newell,Lokad,0,0,0,110.18,150,0,0,0.058468561
+15034737/Chicago,Chicago,15034737,Newell 323,Office Supplies,Pens & Art Supplies,Newell,Logipro,0,8,0,49.8499985,84.4199982,0,4,0.037638308
+15034737/Los Angeles,Los Angeles,15034737,Newell 323,Office Supplies,Pens & Art Supplies,Newell,Logipro,15,0,0,49.8499985,84.4199982,0,4,0.037638308
+15034737/New-York,New-York,15034737,Newell 323,Office Supplies,Pens & Art Supplies,Newell,Logipro,0,12,0,49.8499985,84.4199982,0,4,0.037638308
+15063964/Chicago,Chicago,15063964,Newell 35,Office Supplies,Pens & Art Supplies,Newell,Logipro,14,0,0,0.920000017,2.33999991,0,20,0.02790811
+15063964/Los Angeles,Los Angeles,15063964,Newell 35,Office Supplies,Pens & Art Supplies,Newell,Logipro,0,0,0,0.920000017,2.33999991,0,20,0.02790811
+15063964/New-York,New-York,15063964,Newell 35,Office Supplies,Pens & Art Supplies,Newell,Logipro,50,40,0,0.920000017,2.33999991,0,20,0.02790811
+15092233/Chicago,Chicago,15092233,Prang Colored Pencils,Office Supplies,Pens & Art Supplies,Prang,Drecom,30,0,0,5,10,0,4,0.032720237
+15092233/Los Angeles,Los Angeles,15092233,Prang Colored Pencils,Office Supplies,Pens & Art Supplies,Prang,Drecom,1,32,0,5,10,0,4,0.032720237
+15092233/New-York,New-York,15092233,Prang Colored Pencils,Office Supplies,Pens & Art Supplies,Prang,Drecom,2,32,0,5,10,0,4,0.032720237
+15149291/Chicago,Chicago,15149291,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Pens & Art Supplies,Sanford,Logipro,14,0,0,24.9599991,49.2099991,0,20,0.034316846
+15149291/Los Angeles,Los Angeles,15149291,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Pens & Art Supplies,Sanford,Logipro,0,0,0,24.9599991,49.2099991,0,20,0.034316846
+15149291/New-York,New-York,15149291,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Pens & Art Supplies,Sanford,Logipro,50,40,0,24.9599991,49.2099991,0,20,0.034316846
+15343952/Chicago,Chicago,15343952,Staples SlimLine Pencil Sharpener,Office Supplies,Pens & Art Supplies,Staples,Logipro,42,48,0,22.8600006,37.0600014,0,4,0.088093097
+15343952/Los Angeles,Los Angeles,15343952,Staples SlimLine Pencil Sharpener,Office Supplies,Pens & Art Supplies,Staples,Logipro,0,120,0,22.8600006,37.0600014,0,4,0.088093097
+15343952/New-York,New-York,15343952,Staples SlimLine Pencil Sharpener,Office Supplies,Pens & Art Supplies,Staples,Logipro,124,0,0,22.8600006,37.0600014,0,4,0.088093097
+15410849/Chicago,Chicago,15410849,OIC Thumb-Tacks,Office Supplies,Rubber Bands,OIC,RRD,2,38,0,58.6399994,83.5699997,0,2,0.081159213
+15410849/Los Angeles,Los Angeles,15410849,OIC Thumb-Tacks,Office Supplies,Rubber Bands,OIC,RRD,2,22,0,58.6399994,83.5699997,0,2,0.081159213
+15410849/New-York,New-York,15410849,OIC Thumb-Tacks,Office Supplies,Rubber Bands,OIC,RRD,0,170,0,58.6399994,83.5699997,0,2,0.081159213
+15416092/Chicago,Chicago,15416092,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,Rubber Bands,OIC,RRD,0,44,0,22.1499996,37.8800011,0,4,0.029041341
+15416092/Los Angeles,Los Angeles,15416092,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,Rubber Bands,OIC,RRD,0,24,0,22.1499996,37.8800011,0,4,0.029041341
+15416092/New-York,New-York,15416092,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,Rubber Bands,OIC,RRD,20,80,0,22.1499996,37.8800011,0,4,0.029041341
+15431986/Chicago,Chicago,15431986,Staples Gold Paper Clips,Office Supplies,Rubber Bands,Staples,Logipro,14,0,0,12.1300001,21.8299999,0,6,0.093263657
+15431986/Los Angeles,Los Angeles,15431986,Staples Gold Paper Clips,Office Supplies,Rubber Bands,Staples,Logipro,9,6,0,12.1300001,21.8299999,0,6,0.093263657
+15431986/New-York,New-York,15431986,Staples Gold Paper Clips,Office Supplies,Rubber Bands,Staples,Logipro,9,72,0,12.1300001,21.8299999,0,6,0.093263657
+15519926/Chicago,Chicago,15519926,Staples Metal Binder Clips,Office Supplies,Rubber Bands,Staples,Logipro,9,22,0,52.9099998,84.6900024,0,2,0.04046238
+15519926/Los Angeles,Los Angeles,15519926,Staples Metal Binder Clips,Office Supplies,Rubber Bands,Staples,Logipro,0,20,0,52.9099998,84.6900024,0,2,0.04046238
+15519926/New-York,New-York,15519926,Staples Metal Binder Clips,Office Supplies,Rubber Bands,Staples,Logipro,12,114,0,52.9099998,84.6900024,0,2,0.04046238
+15586718/Chicago,Chicago,15586718,Acme Elite Stainless Steel Scissors,Office Supplies,"Scissors, Rulers and Trimmers",Acme,Drecom,0,150,0,57,110.690002,50,0,0.077171881
+15586718/Los Angeles,Los Angeles,15586718,Acme Elite Stainless Steel Scissors,Office Supplies,"Scissors, Rulers and Trimmers",Acme,Drecom,0,180,0,57,110.690002,50,0,0.077171881
+15586718/New-York,New-York,15586718,Acme Elite Stainless Steel Scissors,Office Supplies,"Scissors, Rulers and Trimmers",Acme,Drecom,0,300,0,57,110.690002,50,0,0.077171881
+15641711/Chicago,Chicago,15641711,Elite 5 inch Scissors,Office Supplies,"Scissors, Rulers and Trimmers",Elite,FHL,31,100,0,3.29999995,18.6599998,0,0,0.015126864
+15641711/Los Angeles,Los Angeles,15641711,Elite 5 inch Scissors,Office Supplies,"Scissors, Rulers and Trimmers",Elite,FHL,80,0,0,3.29999995,18.6599998,0,0,0.015126864
+15641711/New-York,New-York,15641711,Elite 5 inch Scissors,Office Supplies,"Scissors, Rulers and Trimmers",Elite,FHL,745,100,0,3.29999995,18.6599998,0,0,0.015126864
+15808622/Chicago,Chicago,15808622,Acco Perma 2700 Stacking Storage Drawers,Office Supplies,Storage & Organization,Acco,Drecom,0,30,0,42.7900009,73.3399963,0,4,0.000455859
+15808622/Los Angeles,Los Angeles,15808622,Acco Perma 2700 Stacking Storage Drawers,Office Supplies,Storage & Organization,Acco,Drecom,0,20,0,42.7900009,73.3399963,0,4,0.000455859
+15808622/New-York,New-York,15808622,Acco Perma 2700 Stacking Storage Drawers,Office Supplies,Storage & Organization,Acco,Drecom,62,0,0,42.7900009,73.3399963,0,4,0.000455859
+15880950/Chicago,Chicago,15880950,Fellowes Recycled Storage Drawers,Office Supplies,Storage & Organization,Fellowes,RRD,5,12,0,26.9500008,46.6199989,0,4,0.03273948
+15880950/Los Angeles,Los Angeles,15880950,Fellowes Recycled Storage Drawers,Office Supplies,Storage & Organization,Fellowes,RRD,7,24,0,26.9500008,46.6199989,0,4,0.03273948
+15880950/New-York,New-York,15880950,Fellowes Recycled Storage Drawers,Office Supplies,Storage & Organization,Fellowes,RRD,22,96,0,26.9500008,46.6199989,0,4,0.03273948
+15963625/Chicago,Chicago,15963625,Fellowes Stor/Drawer Steel Plus Storage Drawers,Office Supplies,Storage & Organization,Fellowes,RRD,0,10,0,29.4500008,49.9399986,0,2,0.046995854
+15963625/Los Angeles,Los Angeles,15963625,Fellowes Stor/Drawer Steel Plus Storage Drawers,Office Supplies,Storage & Organization,Fellowes,RRD,0,0,2,29.4500008,49.9399986,0,2,0.046995854
+15963625/New-York,New-York,15963625,Fellowes Stor/Drawer Steel Plus Storage Drawers,Office Supplies,Storage & Organization,Fellowes,RRD,0,20,0,29.4500008,49.9399986,0,2,0.046995854
+16018733/Chicago,Chicago,16018733,"Fellowes Strictly Business Drawer File, Letter/Legal Size",Office Supplies,Storage & Organization,Fellowes,RRD,0,0,0,20.3600006,40.4199982,0,2,0.002749407
+16018733/Los Angeles,Los Angeles,16018733,"Fellowes Strictly Business Drawer File, Letter/Legal Size",Office Supplies,Storage & Organization,Fellowes,RRD,0,44,0,20.3600006,40.4199982,0,2,0.002749407
+16018733/New-York,New-York,16018733,"Fellowes Strictly Business Drawer File, Letter/Legal Size",Office Supplies,Storage & Organization,Fellowes,RRD,35,44,0,20.3600006,40.4199982,0,2,0.002749407
+16075571/Chicago,Chicago,16075571,"Iris 3-Drawer Stacking Bin, Black",Office Supplies,Storage & Organization,Iris,Logipro,77,0,0,9,28.6000004,0,0,0.022589792
+16075571/Los Angeles,Los Angeles,16075571,"Iris 3-Drawer Stacking Bin, Black",Office Supplies,Storage & Organization,Iris,Logipro,493,121,0,9,28.6000004,0,0,0.022589792
+16075571/New-York,New-York,16075571,"Iris 3-Drawer Stacking Bin, Black",Office Supplies,Storage & Organization,Iris,Logipro,4578,100,0,9,28.6000004,0,0,0.022589792
+16089695/Chicago,Chicago,16089695,Tennsco Industrial Shelving,Office Supplies,Storage & Organization,Tennsco,Logipro,29,0,0,3.44000006,7.19000006,0,20,0.082626809
+16089695/Los Angeles,Los Angeles,16089695,Tennsco Industrial Shelving,Office Supplies,Storage & Organization,Tennsco,Logipro,34,0,0,3.44000006,7.19000006,0,20,0.082626809
+16089695/New-York,New-York,16089695,Tennsco Industrial Shelving,Office Supplies,Storage & Organization,Tennsco,Logipro,8,20,0,3.44000006,7.19000006,0,20,0.082626809
+16187687/Chicago,Chicago,16187687,"Tennsco Lockers, Gray",Office Supplies,Storage & Organization,Tennsco,Logipro,19,20,0,13.9700003,33.7999992,0,2,0.034732266
+16187687/Los Angeles,Los Angeles,16187687,"Tennsco Lockers, Gray",Office Supplies,Storage & Organization,Tennsco,Logipro,20,18,0,13.9700003,33.7999992,0,2,0.034732266
+16187687/New-York,New-York,16187687,"Tennsco Lockers, Gray",Office Supplies,Storage & Organization,Tennsco,Logipro,48,110,0,13.9700003,33.7999992,0,2,0.034732266
+16188573/Chicago,Chicago,16188573,Anderson Hickey Conga Table Tops & Accessories,Furniture,Tables,Anderson,FHL,0,0,0,18.4699993,36.2799988,0,4,0.054665641
+16188573/Los Angeles,Los Angeles,16188573,Anderson Hickey Conga Table Tops & Accessories,Furniture,Tables,Anderson,FHL,16,20,0,18.4699993,36.2799988,0,4,0.054665641
+16188573/New-York,New-York,16188573,Anderson Hickey Conga Table Tops & Accessories,Furniture,Tables,Anderson,FHL,32,0,0,18.4699993,36.2799988,0,4,0.054665641
+16239251/Chicago,Chicago,16239251,Chromcraft Bull-Nose Wood 48 x 96inch Rectangular Conference Tables,Furniture,Tables,Chromcraft,Drecom,0,26,0,22.9099998,39.2900009,0,2,0.031224853
+16239251/Los Angeles,Los Angeles,16239251,Chromcraft Bull-Nose Wood 48 x 96inch Rectangular Conference Tables,Furniture,Tables,Chromcraft,Drecom,0,0,0,22.9099998,39.2900009,0,2,0.031224853
+16239251/New-York,New-York,16239251,Chromcraft Bull-Nose Wood 48 x 96inch Rectangular Conference Tables,Furniture,Tables,Chromcraft,Drecom,17,40,0,22.9099998,39.2900009,0,2,0.031224853
+16277400/Chicago,Chicago,16277400,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Furniture,Tables,SAFCO,SuperSupply,0,0,0,22.5400009,44.4199982,0,2,0.068067431
+16277400/Los Angeles,Los Angeles,16277400,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Furniture,Tables,SAFCO,SuperSupply,0,40,0,22.5400009,44.4199982,0,2,0.068067431
+16277400/New-York,New-York,16277400,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Furniture,Tables,SAFCO,SuperSupply,67,0,0,22.5400009,44.4199982,0,2,0.068067431
+16363786/Chicago,Chicago,16363786,MicroTAC 650,Technology,Telephones and Communication,MicroTAC,Drecom,5,0,0,23.3999996,52.0900002,0,2,0.051711608
+16363786/Los Angeles,Los Angeles,16363786,MicroTAC 650,Technology,Telephones and Communication,MicroTAC,Drecom,14,1,0,23.3999996,52.0900002,0,2,0.051711608
+16363786/New-York,New-York,16363786,MicroTAC 650,Technology,Telephones and Communication,MicroTAC,Drecom,6,0,0,23.3999996,52.0900002,0,2,0.051711608
+16401974/Chicago,Chicago,16401974,StarTAC Series,Technology,Telephones and Communication,StarTAC,Office First,3,0,0,38.9900017,62.5800018,0,2,0.073893772
+16401974/Los Angeles,Los Angeles,16401974,StarTAC Series,Technology,Telephones and Communication,StarTAC,Office First,0,0,1,38.9900017,62.5800018,0,2,0.073893772
+16401974/New-York,New-York,16401974,StarTAC Series,Technology,Telephones and Communication,StarTAC,Office First,6,30,0,38.9900017,62.5800018,0,2,0.073893772
+16412231/Chicago,Chicago,16412231,StarTAC 7797,Technology,Telephones and Communication,StarTAC,Office First,0,300,0,23.2800007,42.0400009,0,4,0.064957963
+16412231/Los Angeles,Los Angeles,16412231,StarTAC 7797,Technology,Telephones and Communication,StarTAC,Office First,0,0,0,23.2800007,42.0400009,0,4,0.064957963
+16412231/New-York,New-York,16412231,StarTAC 7797,Technology,Telephones and Communication,StarTAC,Office First,0,700,0,23.2800007,42.0400009,0,4,0.064957963
+16430058/Chicago,Chicago,16430058,StarTAC ST7868,Technology,Telephones and Communication,StarTAC,Office First,100,0,0,10,25.5799999,0,0,0.03365164
+16430058/Los Angeles,Los Angeles,16430058,StarTAC ST7868,Technology,Telephones and Communication,StarTAC,Office First,497,52,0,10,25.5799999,0,0,0.03365164
+16430058/New-York,New-York,16430058,StarTAC ST7868,Technology,Telephones and Communication,StarTAC,Office First,1980,0,0,10,25.5799999,0,0,0.03365164
+16595101/Chicago,Chicago,16595101,V3682,Technology,Telephones and Communication,V3682,FHL,0,0,0,19.6299992,42.0299988,0,4,0.033928304
+16595101/Los Angeles,Los Angeles,16595101,V3682,Technology,Telephones and Communication,V3682,FHL,0,24,0,19.6299992,42.0299988,0,4,0.033928304
+16595101/New-York,New-York,16595101,V3682,Technology,Telephones and Communication,V3682,FHL,38,28,0,19.6299992,42.0299988,0,4,0.033928304
+9952426/Chicago,Chicago,9952426,Belkin 6 Outlet Metallic Surge Strip,Office Supplies,Appliances,Belkin,FHL,0,0,0,64.3799973,93.0999985,0,6,0.072948695
+9952426/Los Angeles,Los Angeles,9952426,Belkin 6 Outlet Metallic Surge Strip,Office Supplies,Appliances,Belkin,FHL,0,0,5,64.3799973,93.0999985,0,6,0.072948695
+9952426/New-York,New-York,9952426,Belkin 6 Outlet Metallic Surge Strip,Office Supplies,Appliances,Belkin,FHL,0,0,2,64.3799973,93.0999985,0,6,0.072948695
