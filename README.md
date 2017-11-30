@@ -1,3 +1,3 @@
 # RetailReplenishement
-CRP Code
-Retail Replenishement Code. Deals with the supply chain management.
+
+Continous Retail Replenishement Code. Deals with the supply chain management.
